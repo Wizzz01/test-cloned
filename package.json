@@ -19,6 +19,9 @@
     "preview": "npm run build && npm run functions:dev"
   },
   "dependencies": {
+    "@emotion/react": "11.13.0",
+    "@emotion/server": "11.11.0",
+    "@emotion/styled": "11.13.0",
     "@mantine/core": "6.0.4",
     "@mantine/dropzone": "6.0.4",
     "@mantine/hooks": "6.0.4",
